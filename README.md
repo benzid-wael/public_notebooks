@@ -1,4 +1,4 @@
 public_notebooks
 ================
 
-My Public notebooks
+Collection of my public notebooks.
